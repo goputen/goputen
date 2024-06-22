@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm <a>Sachin Kumar..</a></h1>
+# [Hi, I'm Sachin kumar 
 <h3 align="center">Want to become full-stack developer..</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sachin&label=Profile%20views&color=0e75b6&style=flat" alt="sachin" /> </p>

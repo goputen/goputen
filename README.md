@@ -1,4 +1,4 @@
-# <div><span style="color: #0074f9">H</span><span style="color: #0074f9">i</span><span style="color: #0074f9"> </span><span style="color: #0074f9">�</span><span style="color: #0074f9">�</span><span style="color: #0074f9">,</span><span style="color: #0074f9"> </span><span style="color: #0074f9">I</span><span style="color: #0074f9">'</span><span style="color: #0074f9">m</span><span style="color: #0074f9"> </span><span style="color: #0074f9">S</span><span style="color: #0074f9">A</span><span style="color: #0074f9">C</span><span style="color: #0074f9">H</span><span style="color: #0074f9">I</span><span style="color: #0074f9">N</span><span style="color: #0074f9"> </span><span style="color: #0074f9">!</span></div>
+<h1>Hi 👋, I'm SACHIN !</h1>
 <h3 align="center">Want to become full-stack developer..</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sachin&label=Profile%20views&color=0e75b6&style=flat" alt="sachin" /> </p>

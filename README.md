@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sachin&label=Profile%20views&color=0e75b6&style=flat" alt="sachin" /> </p>
 
-- 🔭 I have worked on [IMDB Clone ( React Js , API )](https://aboutme-git-main-goputens-projects.vercel.app/)
+- 🔭 I have worked on [IMDB Clone ( React Js , API )](https://imdb-clone-one-rho.vercel.app/)
 
 - 🌱 I’m currently learning **Node js.**
 

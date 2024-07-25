@@ -6,11 +6,11 @@
 
 - 🔭 I have worked on [Paper website](http://mitpaperdown.rf.gd/login.php)
 
-- 🌱 I’m currently learning **React js And Node js.**
+- 🌱 I’m currently learning **Node js.**
 
 - 🔭 I have worked on [Movie website Homepage](https://goputen.github.io/movieszone/)
 
-- 💬 Ask me about **C | HTML | CSS | React JS | JavaScript | MySql**
+- 💬 Ask me about **| React Js | Tailwind CSS | C | HTML | CSS | React JS | JavaScript | MySql**
 
 - 📫 How to reach me **sachinkumardyno@gmail.com**
 

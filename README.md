@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sachin Kumar..</h1>
 <h3 align="center">Want to become full-stack developer..</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=goputen&label=Profile%20views&color=0e75b6&style=flat" alt="sachin" /> </p>
 
 - 🔭 I have worked on [IMDB Clone ( React Js , API )](https://imdb-clone-one-rho.vercel.app/)
 
